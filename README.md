@@ -61,7 +61,7 @@ styles/
 ## ▶ 실행 방법
 
 ```bash
-git clone https://github.com/your-username/devseed.git
+git clone https://github.com/hsj1024/devseed.git
 cd devseed
 npm install
 npm run dev
