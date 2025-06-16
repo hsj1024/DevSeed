@@ -1,0 +1,17 @@
+[
+    {
+      "id": "proj001",
+      "title": "꽃집 예약 웹사이트 만들기",
+      "level": "초급",
+      "description": "사용자가 날짜를 선택해 예약할 수 있는 간단한 웹사이트를 만들어보세요.",
+      "tech": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "id": "proj002",
+      "title": "React Todo App",
+      "level": "중급",
+      "description": "할 일 목록을 만들고 완료 여부를 관리하는 React 앱을 구현하세요.",
+      "tech": ["React", "Hooks"]
+    }
+  ]
+  
